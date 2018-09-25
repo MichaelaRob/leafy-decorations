@@ -49,11 +49,11 @@ html {
 
 .banner-content {
   color: #fff;
-  padding-top: 18em;
+  padding-top: 13em;
   background-image: url("../images/svg/two-leaves.svg");
   background-repeat: no-repeat;
-  background-position: 10px 200px;
-  background-size: 75px;
+  background-position: 10px 120px;
+  background-size: 70px;
 }
 
 @media only screen and (min-width: 60em) {
