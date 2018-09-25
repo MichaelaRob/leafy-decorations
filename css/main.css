@@ -42,7 +42,6 @@ html {
     linear-gradient(to bottom,rgba(16, 52, 41, 0), rgba(16, 52, 41, .8)),
     url("../images/banner.jpg");
   background-repeat: no-repeat;
-  background-position: center;
   background-size: cover;
   border-bottom: 3px solid #2d5a4d;
 }
