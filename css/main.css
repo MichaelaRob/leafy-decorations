@@ -49,10 +49,10 @@ html {
 
 .banner-content {
   color: #fff;
-  padding-top: 18em;
+  padding-top: 300px;
   background-image: url("../images/two-leaves.svg");
   background-repeat: no-repeat;
-  background-position: 10px 120px;
+  background-position: 10px 220px;
   background-size: 70px;
 }
 
