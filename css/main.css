@@ -29,7 +29,12 @@ html {
 }
 
 .nav a:hover {
-
+  color: #145b1d;
+  background-color: #fff;
+  background-image: url("../images/svg/leaf-icon.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
 }
 
 .banner {
@@ -44,6 +49,10 @@ html {
 .banner-content {
   color: #fff;
   padding-top: 18em;
+  background-image: url("../images/svg/two-leaves.svg");
+  background-repeat: no-repeat;
+  background-position: 10px 200px;
+  background-size: 75px;
 }
 
 @media only screen and (min-width: 60em) {
