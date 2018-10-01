@@ -53,8 +53,8 @@ html {
   padding-top: 300px;
   background-image: url("../images/two-leaves.svg");
   background-repeat: no-repeat;
-  background-position: 10px 220px;
-  background-size: 70px;
+  background-position: 12px 180px;
+  background-size: 100px auto;
 }
 
 @media only screen and (min-width: 60em) {
